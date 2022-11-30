@@ -15,6 +15,7 @@ I am a Java/ Kotlin Android developer and I am always looking to learn more for 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-abdelraheem-2067a1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abdelraheem-2067a1207" height="30" width="40" /></a>
+<a href="https://fb.com/halawy2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="halawy2000" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_abdelraheem20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_abdelraheem20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmedabdelraheem1563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmedabdelraheem1563" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uckz-b4edmpazdvikldnovbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckz-b4edmpazdvikldnovbg" height="30" width="40" /></a>
 </p>
