@@ -11,5 +11,10 @@ I am a Java/ Kotlin Android developer and I am always looking to learn more for 
     • Firebase: Firestore, Real-time Database, Messaging, Storage.<br>
     • Software Engineering Tools (Git, GitHub).<br>
 </p>
-[Linkedin](https://www.linkedin.com/in/ahmed-abdelraheem-2067a1207/)
+
+<p1>Contact me</p1>
+<ul>
+  <li><a href="https://www.linkedin.com/in/ahmed-abdelraheem-2067a1207/)">Linkedin</a></li>
+</ul>
+
 
