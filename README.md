@@ -12,11 +12,9 @@ I am a Java/ Kotlin Android developer and I am always looking to learn more for 
     • Software Engineering Tools (Git, GitHub).<br>
 </p>
 
-<p1>Contact me</p1>
-<ul>
-  <li><a href="https://www.linkedin.com/in/ahmed-abdelraheem-2067a1207/)">Linkedin</a></li>
-</ul>
-
-<img src="https://camo.githubusercontent.com/f8552d9c1b4e3c696d2983488f17beb30bc4556326f618d910d94689ef5d51d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666c6174266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="youtube" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
-
-<h2> Contact me</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmed-abdelraheem-2067a1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abdelraheem-2067a1207" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed_abdelraheem20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_abdelraheem20" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ahmedabdelraheem1563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmedabdelraheem1563" height="30" width="40" /></a>
+</p>
