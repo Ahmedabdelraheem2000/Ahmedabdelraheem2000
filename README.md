@@ -1,5 +1,8 @@
 
 
+<img src="[pic_trulli.jpg](https://cdn-images-1.medium.com/fit/t/1600/480/0*dVlRfvc6b66esZkb)" alt="Italian Trulli">
+
+
 I am a Java/ Kotlin Android developer and I am always looking to learn more for professional development and applications and to have a better user experience, I dealt with different projects that contain third party libraries and multiple topics such as Firebase, Kotlin Coroutines,, REST APIs, Room Database, Retrofit and more
 <br/>
 <h3 align="left">Skills:</h3>
